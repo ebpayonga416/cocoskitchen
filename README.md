@@ -1,2 +1,2 @@
 # cocoskitchen
-cocoskitchen Website fo school purpose
+cocoskitchen is a website that our group made for educational purposes...
